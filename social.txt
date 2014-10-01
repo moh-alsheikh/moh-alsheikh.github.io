@@ -1,8 +1,0 @@
-                <p class="social-buttons">
-                  <a class="btn btn-circle" href="#"><i class="fa fa-facebook"></i></a>
-                  <a class="btn btn-circle" href="#"><i class="fa fa-google"></i></a>
-                  <a class="btn btn-circle" href="#"><i class="fa fa-twitter"></i></a>
-                  <a class="btn btn-circle" href="#"><i class="fa fa-envelope"></i></a>
-                  <a class="btn btn-circle" href="#"><i class="fa fa-skype"></i></a>
-                  <a class="btn btn-circle" href="#"><i class="fa fa-arrow-right"></i></a>
-                </p>
